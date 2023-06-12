@@ -1,7 +1,11 @@
 # SocialMediaFront
 ***
 ## Full project here: https://social-media-petproject.netlify.app/
+
 Back side: https://github.com/Proger30/SocialMediaBack
+
+Is responsible: false
+
 Stack: MERN
 
 ### Login/Registration page: ![Screenshot 2023-06-12 160916](https://github.com/Proger30/SocialMediaFront/assets/45534457/67bca1cf-9169-4b16-9034-dc091eecf046) 
