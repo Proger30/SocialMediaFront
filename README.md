@@ -4,7 +4,7 @@
 
 Back side: https://github.com/Proger30/SocialMediaBack
 
-Is responsible: false
+Is responsible: true
 
 Stack: MERN
 
